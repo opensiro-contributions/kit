@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "kit-partial-subagent-config",
+  "original_repository": "speakeasy-api/kit",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/pull/70",
+    "https://github.com/speakeasy-api/kit/issues/222"
+  ],
+  "title": "Recover from incomplete optional subagent configuration",
+  "work_state": "BLOCKED",
+  "next_action": "Historical migration only; no new engineering or outreach while owner_control is PAUSE; reverify native and publication gates before RESUME",
+  "source_revision": "8f9f08a2b2088381f1cb106dcb9129378f8f0b4e",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/actions/runs/39656287282",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/kit-222/kit-222-safe-default.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [],
+  "last_event_id": null
+}
